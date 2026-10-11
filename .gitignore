@@ -1,0 +1,22 @@
+# Java build output
+target/
+
+# Uploaded files
+uploads/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local configuration
+application-local.properties
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
